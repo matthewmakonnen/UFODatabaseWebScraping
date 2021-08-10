@@ -1,5 +1,5 @@
 <p align="center">
-  <src="https://pbs.twimg.com/profile_images/998978256077402112/OMvHnltG_400x400.jpg">
+  <img width="400" height="400" src="https://pbs.twimg.com/profile_images/998978256077402112/OMvHnltG_400x400.jpg">
 </p>
 
 # UFO Database Web Scraping (INST 326 - Individual Project)
