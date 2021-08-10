@@ -1,3 +1,4 @@
+![alt text](https://pbs.twimg.com/profile_images/998978256077402112/OMvHnltG_400x400.jpg)
 # UFO Database Web Scraping (INST 326 - Individual Project)
 
 ### Introduction
