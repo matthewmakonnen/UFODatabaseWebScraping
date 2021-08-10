@@ -17,7 +17,7 @@ Steps of running the program (_ufodata_webscraper.py_):
 2. Open and run the downloaded file through the Command Prompt (CMD).
 
 
-![alt text](https://pbs.twimg.com/profile_images/998978256077402112/OMvHnltG_400x400.jpg) ![alt text](https://img.thedailybeast.com/image/upload/dpr_2.0/c_crop,h_1707,w_1707,x_0,y_0/c_limit,w_128/d_placeholder_euli9k,fl_lossy,q_auto/v1492179299/articles/2015/07/02/why-do-ufos-love-this-utah-ranch-so-much/150701-strolhlic-ufo-tease_avkv8u)
+![alt text](https://pbs.twimg.com/profile_images/998978256077402112/OMvHnltG_400x400.jpg) ![alt text](https://scx1.b-cdn.net/csz/news/800a/2018/ufobelievers.jpg)
 
 ### References
 
