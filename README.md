@@ -17,7 +17,7 @@ Steps of running the program (_ufodata_webscraper.py_):
 2. Open and run the downloaded file through the Command Prompt (CMD).
 
 
-![alt text](https://pbs.twimg.com/profile_images/998978256077402112/OMvHnltG_400x400.jpg) ![alt text](https://s.abcnews.com/images/Technology/200701_vod_orig_worldufoday_hpMain_4x3_992.jpg)
+![alt text](https://pbs.twimg.com/profile_images/998978256077402112/OMvHnltG_400x400.jpg) ![alt text](https://cdn.cms.prod.nypr.digital/images/shutterstock_1518704687.2e16d0ba.fill-661x496.jpg)
 
 ### References
 
