@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+  <img width="460" height="300" src="https://pbs.twimg.com/profile_images/998978256077402112/OMvHnltG_400x400.jpg">
 </p>
 
 # UFO Database Web Scraping (INST 326 - Individual Project)
