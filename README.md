@@ -13,7 +13,7 @@
 
 Packages to install before running the program files:
 - requests
-- Beautiful Soup
+- BeautifulSoup (bs4)
 - collections
 
 Steps of running the program (_ufodata_webscraper.py_):
