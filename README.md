@@ -25,4 +25,4 @@ INST 326 object-oriented programming. (n.d.). https://umd-ischool-inst326.github
 
 A preeminent public research university. University of Maryland. (n.d.). https://www.umd.edu/. 
 
-Slate. (n.d.). Politics, business, technology, and the arts. Slate Magazine. https://slate.com/.
+Shostak, S. (2018, January 17). UFO believers got one thing RIGHT-HERE'S what they get wrong. Phys.org. https://phys.org/news/2018-01-ufo-believers-righthere-wrong.html. 
